@@ -38,7 +38,7 @@ public class GameGenerator {
             // и не более 6.
             for (int row = 0; row < GRID_BOUNDARY; row += 3) {
                 for (int column = 0; column < GRID_BOUNDARY; column += 3) {
-                    numberOfEmptyCells = getRandomNumber(3, 6);
+                    numberOfEmptyCells = getRandomNumber(3, 7);
                     while (count < numberOfEmptyCells) {
                         int xCoordinate = getRandomNumber(row, row + 3);
                         int yCoordinate = getRandomNumber(column, column + 3);
