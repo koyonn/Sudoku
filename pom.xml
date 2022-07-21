@@ -127,13 +127,7 @@
                                         <include>**/*.ico</include>
                                     </includes>
                                 </resource>
-                                <resource>
-                                    <directory>src/main/resources/koyonn/sudoku</directory>
-                                    <includes>
-                                        <include>**/*.gif</include>
-                                    </includes>
-                                </resource>
-                            </resources>
+                               </resources>
                         </configuration>
                     </execution>
                 </executions>
