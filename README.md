@@ -6,4 +6,4 @@
 > Программа написана на Java, для создания пользовательского графического интерфейса 
 > использовалась платформа JavaFX 
 
-![alt text](https://i.ibb.co/FVd05R7/img.png)
+![pic.png](https://i.ibb.co/FVd05R7/img.png)
